@@ -1,4 +1,5 @@
 Todolist Web App
+
 A lightweight and interactive web-based task management application built using Vanilla JavaScript. This application helps users organize their productivity with real-time task prioritization and deadline tracking.
 
 Key Features
